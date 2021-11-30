@@ -1,0 +1,355 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/furqan/opt2/Project II
+vAddr
+Z0 !s110 1638192123
+!i10b 1
+!s100 Ql_zCCIVhVYEnb=nemkhf3
+IzAZ^@f5O_RW>E5b`S5[jQ1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/home/furqan/opt2/Project III
+w1638164660
+8/home/furqan/opt2/Project III/Addr.v
+F/home/furqan/opt2/Project III/Addr.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1638192123.000000
+!s107 /home/furqan/opt2/Project III/Addr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/furqan/opt2/Project III/Addr.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@addr
+valu
+Z7 !s110 1638192122
+!i10b 1
+!s100 DIdi]neE<abiF25NDja0n3
+IAFP1IJk^6X:Y<zaFOzC^j2
+R1
+R2
+w1637923477
+8/home/furqan/opt2/Project III/ALU.v
+F/home/furqan/opt2/Project III/ALU.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1638192122.000000
+!s107 /home/furqan/opt2/Project III/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/furqan/opt2/Project III/ALU.v|
+!i113 1
+R5
+R6
+vALU_Control
+R7
+!i10b 1
+!s100 2W2mYmHBz]aJaVX2`DYaF1
+IYZ`dH^5i?@cO]?iffP6:k0
+R1
+R2
+w1638186112
+8/home/furqan/opt2/Project III/Alu_Control.v
+F/home/furqan/opt2/Project III/Alu_Control.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/furqan/opt2/Project III/Alu_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/furqan/opt2/Project III/Alu_Control.v|
+!i113 1
+R5
+R6
+n@a@l@u_@control
+vbranch
+R0
+!i10b 1
+!s100 _3B5g9_T>TIC8X6PfeOQ60
+Ich_ZS?BAe4cloe]mNlKB`2
+R1
+R2
+w1638186137
+8/home/furqan/opt2/Project III/branch.v
+F/home/furqan/opt2/Project III/branch.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/furqan/opt2/Project III/branch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/furqan/opt2/Project III/branch.v|
+!i113 1
+R5
+R6
+vControl
+R7
+!i10b 1
+!s100 J7B0Aa9zlQXk9Z=;0:9N`3
+IW0[OFT`n4IGkcnP>ElH;P0
+R1
+R2
+w1638186223
+8/home/furqan/opt2/Project III/Control.v
+F/home/furqan/opt2/Project III/Control.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/furqan/opt2/Project III/Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/furqan/opt2/Project III/Control.v|
+!i113 1
+R5
+R6
+n@control
+vdatapath
+R7
+!i10b 1
+!s100 2T8KReFZ2AD0Ro0ONIgRb1
+IQmB`?TNj<njVinWShPO>Z3
+R1
+R2
+w1638186256
+8/home/furqan/opt2/Project III/datapath.v
+F/home/furqan/opt2/Project III/datapath.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/furqan/opt2/Project III/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/furqan/opt2/Project III/datapath.v|
+!i113 1
+R5
+R6
+vDMEM
+R7
+!i10b 1
+!s100 @k;?dYkQB]QdWF8kK7JM^2
+IF6B_]a:[gbBjb8Mc3;QMX3
+R1
+R2
+w1637939149
+8/home/furqan/opt2/Project III/DMEM.v
+F/home/furqan/opt2/Project III/DMEM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/furqan/opt2/Project III/DMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/furqan/opt2/Project III/DMEM.v|
+!i113 1
+R5
+R6
+n@d@m@e@m
+vFinal_Tb
+R0
+!i10b 1
+!s100 ;PTWbNf>7:3g2^L9KQj@i0
+I3Za7o`z`_64F2a4EX7Y8m1
+R1
+R2
+w1638162803
+8/home/furqan/opt2/Project III/Final_Tb.v
+F/home/furqan/opt2/Project III/Final_Tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/furqan/opt2/Project III/Final_Tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/furqan/opt2/Project III/Final_Tb.v|
+!i113 1
+R5
+R6
+n@final_@tb
+vIMEM
+R7
+!i10b 1
+!s100 Ej<UF_9RRVMB9^EFLU^B<1
+I8_k@6ZFZDDQ?U3@4fEdLH2
+R1
+R2
+w1638192084
+8/home/furqan/opt2/Project III/IMEM.v
+F/home/furqan/opt2/Project III/IMEM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/furqan/opt2/Project III/IMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/furqan/opt2/Project III/IMEM.v|
+!i113 1
+R5
+R6
+n@i@m@e@m
+vmux2x1
+R7
+!i10b 1
+!s100 aPmZHL_jmY`bR?;0h4f[^1
+I@a5b<_L4Heo<mfNh;1C100
+R1
+R2
+w1637828334
+8/home/furqan/opt2/Project III/mux2x1.v
+F/home/furqan/opt2/Project III/mux2x1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/furqan/opt2/Project III/mux2x1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/furqan/opt2/Project III/mux2x1.v|
+!i113 1
+R5
+R6
+vmux4x2
+R0
+!i10b 1
+!s100 HfVB3@`TMbH<m@@]NSEE61
+III:a:7AZ4fhI0dokRahWU1
+R1
+R2
+w1638181378
+8/home/furqan/opt2/Project III/mux4x2.v
+F/home/furqan/opt2/Project III/mux4x2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/furqan/opt2/Project III/mux4x2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/furqan/opt2/Project III/mux4x2.v|
+!i113 1
+R5
+R6
+vmuxer
+R0
+!i10b 1
+!s100 :8MZiAJ[J1iP93h6=VP6]1
+Ih4:DFAj6D]f`UgP>7f9a_1
+R1
+R2
+w1638163986
+8/home/furqan/opt2/Project III/muxer.v
+F/home/furqan/opt2/Project III/muxer.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/furqan/opt2/Project III/muxer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/furqan/opt2/Project III/muxer.v|
+!i113 1
+R5
+R6
+vPC
+R7
+!i10b 1
+!s100 9Um536c`;kQ8[LGNARiQH0
+Ij10=dQ[lAHBnICB1mA?3@1
+R1
+R2
+w1637839781
+8/home/furqan/opt2/Project III/PC.v
+F/home/furqan/opt2/Project III/PC.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/furqan/opt2/Project III/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/furqan/opt2/Project III/PC.v|
+!i113 1
+R5
+R6
+n@p@c
+vRegisterFile
+R7
+!i10b 1
+!s100 E[J@S?Wf99hQWJS3JB2ga2
+I_XYeh;c[k>;dzzPIk4TF02
+R1
+R2
+w1637834092
+8/home/furqan/opt2/Project III/RegisterFile.v
+F/home/furqan/opt2/Project III/RegisterFile.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/furqan/opt2/Project III/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/furqan/opt2/Project III/RegisterFile.v|
+!i113 1
+R5
+R6
+n@register@file
+vSignExt
+R7
+!i10b 1
+!s100 [T87liA>[j6Um``jTK^4A0
+IzMHA]KOMQ?=[oLon[YV6H0
+R1
+R2
+w1638183471
+8/home/furqan/opt2/Project III/SignExt.v
+F/home/furqan/opt2/Project III/SignExt.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/furqan/opt2/Project III/SignExt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/furqan/opt2/Project III/SignExt.v|
+!i113 1
+R5
+R6
+n@sign@ext
+vtb
+R7
+!i10b 1
+!s100 iP^BBcCb7N_cK48hl^]eO3
+IfJTSg9BR]9GfZm0@KH@`^2
+R1
+R2
+w1637754960
+8/home/furqan/opt2/Project III/tb.v
+F/home/furqan/opt2/Project III/tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/furqan/opt2/Project III/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/furqan/opt2/Project III/tb.v|
+!i113 1
+R5
+R6
