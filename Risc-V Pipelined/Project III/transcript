@@ -1,0 +1,2804 @@
+# Loading project Risc-V Pipelined
+# Compile of RegisterFile.v was successful.
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+vsim work.Final_Tb
+# vsim work.Final_Tb 
+# Start time: 15:14:11 on Dec 30,2021
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Test_D_Hazard
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+add wave -position insertpoint sim:/Final_Tb/*
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+vsim work.IMEM
+# End time: 15:14:57 on Dec 30,2021, Elapsed time: 0:00:46
+# Errors: 0, Warnings: 8
+# vsim work.IMEM 
+# Start time: 15:14:58 on Dec 30,2021
+# Loading work.IMEM
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v failed with 1 errors.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 1 failed with 1 error.
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+restart
+# Loading work.IMEM
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+vsim work.Final_Tb
+# End time: 15:37:46 on Dec 30,2021, Elapsed time: 0:22:48
+# Errors: 0, Warnings: 0
+# vsim work.Final_Tb 
+# Start time: 15:37:46 on Dec 30,2021
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Test_D_Hazard
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+add wave -position insertpoint sim:/Final_Tb/finalpath/*
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+restart
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Test_D_Hazard
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful with warnings.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+restart
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Test_D_Hazard
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/F_Control/*
+run
+run
+run
+run
+run
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+vsim work.ForwardControl
+# End time: 15:53:20 on Dec 30,2021, Elapsed time: 0:15:34
+# Errors: 0, Warnings: 48
+# vsim work.ForwardControl 
+# Start time: 15:53:20 on Dec 30,2021
+# Loading work.ForwardControl
+vsim work.Control
+# End time: 15:55:47 on Dec 30,2021, Elapsed time: 0:02:27
+# Errors: 0, Warnings: 0
+# vsim work.Control 
+# Start time: 15:55:47 on Dec 30,2021
+# Loading work.Control
+vsim work.Control
+# End time: 15:56:00 on Dec 30,2021, Elapsed time: 0:00:13
+# Errors: 0, Warnings: 0
+# vsim work.Control 
+# Start time: 15:56:00 on Dec 30,2021
+# Loading work.Control
+quit -sim
+# End time: 15:56:06 on Dec 30,2021, Elapsed time: 0:00:06
+# Errors: 0, Warnings: 0
+vsim work.Control
+# vsim work.Control 
+# Start time: 15:56:07 on Dec 30,2021
+# Loading work.Control
+quit -sim
+# End time: 15:56:13 on Dec 30,2021, Elapsed time: 0:00:06
+# Errors: 0, Warnings: 0
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful with warnings.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v failed with 1 errors.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 1 failed with 1 error.
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful with warnings.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful with warnings.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+vsim work.Final_Tb
+# vsim work.Final_Tb 
+# Start time: 16:01:18 on Dec 30,2021
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Test_D_Hazard
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+restart
+add wave -position insertpoint sim:/Final_Tb/*
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 20 ps.
+run
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 20 ps.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 20 ps.
+run
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 20 ps.
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/PC_1/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 20 ps.
+run
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 20 ps.
+run
+run
+run
+run
+# Load canceled
+restart
+# Window cannot be closed because the modal window "File is Out-of-Date" is still open.
+vsim work.Final_Tb
+# End time: 16:03:52 on Dec 30,2021, Elapsed time: 0:02:34
+# Errors: 7, Warnings: 25
+# vsim work.Final_Tb 
+# Start time: 16:03:52 on Dec 30,2021
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Test_D_Hazard
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+restart
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful with warnings.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+restart
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+add wave -position insertpoint sim:/Final_Tb/*
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/PC_1/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/F_Control/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/REG_Inst_D/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/Control_Unit/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+vsim work.Final_Tb
+# End time: 16:09:49 on Dec 30,2021, Elapsed time: 0:05:57
+# Errors: 0, Warnings: 56
+# vsim work.Final_Tb 
+# Start time: 16:09:49 on Dec 30,2021
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful with warnings.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+vsim work.Final_Tb
+# End time: 16:10:13 on Dec 30,2021, Elapsed time: 0:00:24
+# Errors: 0, Warnings: 0
+# vsim work.Final_Tb 
+# Start time: 16:10:13 on Dec 30,2021
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+add wave -position insertpoint sim:/Final_Tb/*
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/Control_Unit/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful with warnings.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v failed with 1 errors.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 1 failed with 1 error.
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful with warnings.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v failed with 1 errors.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 1 failed with 1 error.
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful with warnings.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v failed with 2 errors.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 1 failed with 2 errors.
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful with warnings.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+restart
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Test_D_Hazard
+# Loading work.Pipe_Reg
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/Control_Unit/*
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful with warnings.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+restart
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Test_D_Hazard
+# Loading work.Pipe_Reg
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/PC_1/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/Control_Unit/*
+add wave -position insertpoint sim:/Final_Tb/finalpath/F_Control/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful with warnings.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+restart
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Test_D_Hazard
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/PC_1/*
+add wave -position insertpoint sim:/Final_Tb/finalpath/Imem_1/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful with warnings.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+restart
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Test_D_Hazard
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful with warnings.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+restart
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Test_D_Hazard
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/Control_Unit/*
+vsim work.IMEM
+# End time: 16:37:03 on Dec 30,2021, Elapsed time: 0:26:50
+# Errors: 0, Warnings: 96
+# vsim work.IMEM 
+# Start time: 16:37:03 on Dec 30,2021
+# Loading work.IMEM
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+restart
+# Loading work.IMEM
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+vsim work.Final_Tb
+# End time: 16:46:16 on Dec 30,2021, Elapsed time: 0:09:13
+# Errors: 0, Warnings: 8
+# vsim work.Final_Tb 
+# Start time: 16:46:16 on Dec 30,2021
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Test_D_Hazard
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+add wave -position insertpoint sim:/Final_Tb/*
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/Control_Unit/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+restart
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Test_D_Hazard
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/PC_1/*
+restart
+add wave -position insertpoint sim:/Final_Tb/finalpath/PC_1/*
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+vsim work.datapath
+# End time: 17:05:22 on Dec 30,2021, Elapsed time: 0:19:06
+# Errors: 0, Warnings: 48
+# vsim work.datapath 
+# Start time: 17:05:22 on Dec 30,2021
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Test_D_Hazard
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+add wave -position insertpoint sim:/datapath/F_Control/*
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/datapath/Control_Unit/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+restart
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Test_D_Hazard
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+add wave -position insertpoint sim:/datapath/*
+add wave -position insertpoint sim:/datapath/PC_1/*
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+restart
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Test_D_Hazard
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+add wave -position insertpoint sim:/datapath/PC_1/*
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+vsim work.Final_Tb
+# End time: 17:11:00 on Dec 30,2021, Elapsed time: 0:05:38
+# Errors: 0, Warnings: 40
+# vsim work.Final_Tb 
+# Start time: 17:11:00 on Dec 30,2021
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Test_D_Hazard
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+add wave -position insertpoint sim:/Final_Tb/*
+add wave -position insertpoint sim:/Final_Tb/finalpath/PC_1/*
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/Control_Unit/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/Control_Unit/*
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/*
+add wave -position insertpoint sim:/Final_Tb/finalpath/PC_1/*
+add wave -position insertpoint sim:/Final_Tb/finalpath/REG_Inst_D/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/PC_1/*
+add wave -position insertpoint sim:/Final_Tb/finalpath/Imem_1/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/Control_Unit/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/F_Control/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+restart
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Test_D_Hazard
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/PC_1/*
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+add wave -position insertpoint sim:/Final_Tb/finalpath/PC_1/*
+restart
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+restart
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+vsim work.Final_Tb
+# End time: 23:38:30 on Dec 30,2021, Elapsed time: 6:27:30
+# Errors: 0, Warnings: 80
+# vsim work.Final_Tb 
+# Start time: 23:38:30 on Dec 30,2021
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+add wave -position insertpoint sim:/Final_Tb/*
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/PC_1/*
+add wave -position insertpoint sim:/Final_Tb/finalpath/Imem_1/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/REG_Inst_D/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/Control_Unit/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+restart
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+restart
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+restart
+add wave -position insertpoint sim:/Final_Tb/*
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/Control_Unit/*
+add wave -position insertpoint sim:/Final_Tb/finalpath/F_Control/*
+restart
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/*
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+restart
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/REG_Inst_D/*
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# 16 compiles, 0 failed with no errors.
+restart
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.Pipe_Reg
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+add wave -position insertpoint sim:/Final_Tb/*
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/Final_Tb/finalpath/PC_1/*
+add wave -position insertpoint sim:/Final_Tb/finalpath/Imem_1/*
+add wave -position insertpoint sim:/Final_Tb/finalpath/F_Control/*
+# Compile of NOP.v failed with 4 errors.
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# Compile of NOP.v was successful.
+# 17 compiles, 0 failed with no errors.
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# Compile of NOP.v was successful.
+# 17 compiles, 0 failed with no errors.
+restart
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.NOP
+# Loading work.Pipe_Reg
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v failed with 1 errors.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# Compile of NOP.v was successful.
+# 17 compiles, 1 failed with 1 error.
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v failed with 2 errors.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# Compile of NOP.v was successful.
+# 17 compiles, 1 failed with 2 errors.
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# Compile of NOP.v was successful.
+# 17 compiles, 0 failed with no errors.
+restart
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.NOP
+# Loading work.Pipe_Reg
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+# Warning in wave window restart: (vish-4014) No objects found matching '/Final_Tb/finalpath/F_Control/inst_d_rs1'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/Final_Tb/finalpath/F_Control/inst_d_rs2'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/Final_Tb/finalpath/F_Control/inst_x_rd'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/Final_Tb/finalpath/F_Control/opcode_x'. 
+# Compile of Addr.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of SignExt.v was successful.
+# Compile of ALU.v was successful.
+# Compile of mux2x1.v was successful.
+# Compile of mux4x2.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of Pipe_Reg.v was successful.
+# Compile of datapath.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of ForwardControl.v was successful.
+# Compile of Test_D_Hazard.v was successful.
+# Compile of Final_Tb.v was successful.
+# Compile of NOP.v was successful.
+# 17 compiles, 0 failed with no errors.
+# Window cannot be closed because the modal window "Load Design" is still open.
+# Window cannot be closed because the modal window "Load Design" is still open.
+vsim work.Final_Tb
+# End time: 00:33:37 on Dec 31,2021, Elapsed time: 0:55:07
+# Errors: 4, Warnings: 82
+# vsim work.Final_Tb 
+# Start time: 00:33:37 on Dec 31,2021
+# Loading work.Final_Tb
+# Loading work.datapath
+# Loading work.PC
+# Loading work.IMEM
+# Loading work.Addr
+# Loading work.NOP
+# Loading work.Pipe_Reg
+# Loading work.Control
+# Loading work.RegisterFile
+# Loading work.SignExt
+# Loading work.mux4x2
+# Loading work.mux2x1
+# Loading work.ForwardControl
+# Loading work.alu
+# Loading work.DMEM
+add wave -position insertpoint sim:/Final_Tb/*
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
