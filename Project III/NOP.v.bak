@@ -1,0 +1,6 @@
+module NOP(
+input NOP_1,
+input [31:0] instruction, 
+output reg [31:0] instruction);
+
+
